@@ -11,3 +11,5 @@ git clone - clonar repositório
 git init - iniciar git
 git push - empurrar repositorio para github
 git pull - puxar repositorio para maquina
+git status - traz o status do git
+git commit - commita o repositorio
