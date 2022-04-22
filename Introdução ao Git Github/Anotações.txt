@@ -1,4 +1,4 @@
-Comando do GitBahs
+Comando do GitBash
 
 mkdir - criar pasta
 rmdir - deletar pasta
@@ -13,3 +13,4 @@ git push - empurrar repositorio para github
 git pull - puxar repositorio para maquina
 git status - traz o status do git
 git commit - commita o repositorio
+git add
