@@ -1,0 +1,13 @@
+Comando do GitBahs
+
+mkdir - criar pasta
+rmdir - deletar pasta
+mv - mover arquivo
+ls - listar diretório
+cd .. - retornar para diretório anterior
+cd /pasta - ir para pasta selecionada
+
+git clone - clonar repositório
+git init - iniciar git
+git push - empurrar repositorio para github
+git pull - puxar repositorio para maquina
