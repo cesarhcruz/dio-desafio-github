@@ -120,6 +120,156 @@ Modulator-demodulator
  - Conexão ponto-a-ponto
 
 
+# Browser, site, aplicativos
+
+### Browser(Navegador)
+
+ - LP - linguagem de programação
+
+Browser interpreta a LP e transforma em algo compreensível por um humano
+
+Indentifica:
+ - LP
+ - Linguagem de marcação(HTML)
+ - Conteúdo Multimedia
+
+### Site, aplicativos e webserver
+
+#### Site
+
+ - Página da Internet
+ - Diversos porpósitos
+ - Podem ser feitas em diversas LP
+ - D/XHTML caindo em desuso
+
+#### Aplicativo
+
+ - Software que é executado no navegador
+ - Quase não existe em diferença entre site e aplicativo
+
+### Web-server
+
+ - Existe 2 tipos: estático e dinâmico
+ 
+#### Estático
+
+ - Web-Server Físico 
+
+#### Dinâmico
+ - Arquivos
+ - Aplicações
+ - Banco de Dados
+ - Tudo Junto e Misturado
+
+#### Web-Service
+
+ - Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis(Correios, Governo).
+
+
+# O que são Stacks?
+
+### Stacks
+
+#### O que é?
+
+ - Pilhas de Tecnologia
+ - Conjunto de softwares necessário e suficientes para executar um aplicativo
+ - LP
+ - Ambientes e ferramentas de interação com o app/sw
+  
+### Definição de Front-End, Back-end e FullStack
+
+#### Front-End
+
+ - "Parte da Frente"
+ - Site, softwares, app, wev service
+ - Interface, UI, UX
+ - Lógica de programação, HTML, CSS, jQuery/JS/AJAX, PHP, Bootstrap,/outros frameworks
+
+#### Back-End
+
+ - "Parte de Trás"
+ - Servidores, bancos de dados
+ - "meio de campo" entre interface e bancos de dados, regras de negócios, validações
+ - MySQL, Oracle, protocolos de comunicações, PHP, Java, node.js
+
+#### FullStack
+
+ - Profissionalk que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de um app/sw
+
+
+# LPs e Termos
+
+### Principais LPs
+
+ - HTML
+ - CSS
+ - JavaScript(jQuery, Ajax, diversas libs)
+ - PHP
+ - .NET
+ - ASP
+ - Java
+ - Ruby(on Rails)
+ - Python
+ - Perl
+ - C/C++/C#
+
+### Diversos Termos comuns - Pt1
+
+ - 404
+ - Algoritmo
+ - ALT
+ - API
+ - Aplicação
+ - Back-End
+ - Biblioteca/dll
+ - Bootstrap
+ - Breakpoints
+ - Browser/navegador
+ - Bug
+ - Cache
+ - Código
+ - Controle de versão
+ - Cookies
+ - Debug
+ - Deploy
+ - Design adaptativo/responsivo
+ - DNS
+ - Documentação
+ - Domínio
+ - DPI
+ - Editor de Texto
+ - Estrutura de Dados
+ - Favicon
+ - Fontes
+ - Framework
+ - Front-End
+ - FTP
+ - Full-Stack
+ - Github/SVN/CV
+
+### Diversos Termos comuns - Pt2
+
+ - HTTP(S)
+ - IP
+ - Linguagem
+ - Meta Tags
+ - Método ágil
+ - Mobile
+ - MVC
+ - MVP
+ - MySQL
+ - Pixel
+ - Resolução
+ - Servidor
+ - Sistema operacional(SO)
+ - Solução
+ - SSL
+ - UI
+ - UX
+ - Versão
+ - WYSIWYG
+
 
 
 
