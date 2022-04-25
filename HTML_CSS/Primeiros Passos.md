@@ -271,6 +271,10 @@ Indentifica:
  - WYSIWYG
 
 
+# Aula Prática
+
+ - Instalar XAMPP no c:
+
 
 
 
