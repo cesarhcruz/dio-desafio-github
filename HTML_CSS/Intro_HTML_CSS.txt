@@ -48,3 +48,18 @@
 # CSS3
 
  - Linguagem de Estilo
+
+### ID X Classe
+
+ <header id="header" class="header"></header>
+ 
+ No CSS
+ class = .header
+ ID = #header
+
+### Box Model
+
+ - Margin
+   - border
+     - padding
+       - content
