@@ -1,0 +1,50 @@
+# HTML
+
+### Estrutura básica
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta>
+    <title></title>
+  </head>
+  <body>
+  </body>
+<html>
+
+# Semâtica
+
+<div> - divisões
+<section> - secção generica
+<header> - cabeçalho
+<article> - conteudo relevante
+<aside> - conteudo relacionado ao assunto principal
+<footer> - rodapé
+
+<h1>-<h6> - tipos de titulos
+
+# Texto e Links
+
+ - <h1> - Titulo da Página
+ - <h2> - Titulo de seção
+ - <h3> - Titulo de artigo
+ - <p> - Paragráfo - Conteúdo do artigo.
+ - <a> - Ancora - Link
+	href - site, email, telefones
+	target - indicar com abrir link(_blank)
+
+# Como Inserir imagens
+
+<img>
+	src - caminho da imagem
+	alt - Descrição da imagem
+
+# Listas
+
+ - <ul> - Ordem dos intens não é importante
+ - <ol> - Ordem dos itens é importante
+ - <li> - item da lista
+
+# CSS3
+
+ - Linguagem de Estilo
